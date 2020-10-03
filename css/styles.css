@@ -1,0 +1,14 @@
+.main {background-color:white;
+width: 100%;
+color:black;
+text-shadow:1px 0px 0px #ddd;
+margin:0px;
+padding:0px;
+border:2px solid #006abd;
+}
+.black {background-color:#006abd;
+color: white;
+padding:3px;
+margin:0px;
+text-shadow:1px 0px 0px #000;
+width:100%;}
